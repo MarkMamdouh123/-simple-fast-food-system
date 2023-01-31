@@ -1,3 +1,3 @@
 # -Simple fast food system using C++ Object oriented programming
-his repository contains a C++ program for a fast food restaurant. It implements object-oriented programming techniques to manage the menu, orders, and customer information. 
+This repository contains a C++ program for a fast food restaurant. It implements object-oriented programming techniques to manage the menu, orders, and customer information. 
 The program allows customers to place orders, view menu options, and track their order status. The restaurant manager can also manage the menu, view sales reports, and manage customer information. The code is written in C++ and makes use of classes, objects, inheritance, and polymorphism. This repository is a perfect example of how to create a basic restaurant management system using C++ and object-oriented programming principles.
